@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Estetica-Integral-React/static/css/main.9e0d3567.chunk.css",
+    "main.js": "/Estetica-Integral-React/static/js/main.01119600.chunk.js",
+    "main.js.map": "/Estetica-Integral-React/static/js/main.01119600.chunk.js.map",
+    "runtime-main.js": "/Estetica-Integral-React/static/js/runtime-main.5fa2823a.js",
+    "runtime-main.js.map": "/Estetica-Integral-React/static/js/runtime-main.5fa2823a.js.map",
+    "static/css/2.d45d6843.chunk.css": "/Estetica-Integral-React/static/css/2.d45d6843.chunk.css",
+    "static/js/2.f90de759.chunk.js": "/Estetica-Integral-React/static/js/2.f90de759.chunk.js",
+    "static/js/2.f90de759.chunk.js.map": "/Estetica-Integral-React/static/js/2.f90de759.chunk.js.map",
+    "index.html": "/Estetica-Integral-React/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/Estetica-Integral-React/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.9e0d3567.chunk.css.map": "/Estetica-Integral-React/static/css/main.9e0d3567.chunk.css.map",
+    "static/js/2.f90de759.chunk.js.LICENSE.txt": "/Estetica-Integral-React/static/js/2.f90de759.chunk.js.LICENSE.txt",
+    "static/media/Limpieza_profunda.74c9babf.jpg": "/Estetica-Integral-React/static/media/Limpieza_profunda.74c9babf.jpg",
+    "static/media/Masaje_relajante.743c2395.jpg": "/Estetica-Integral-React/static/media/Masaje_relajante.743c2395.jpg",
+    "static/media/Quemadores_grasa.eb56bf28.jpg": "/Estetica-Integral-React/static/media/Quemadores_grasa.eb56bf28.jpg",
+    "static/media/Trata2.ec6550db.jpg": "/Estetica-Integral-React/static/media/Trata2.ec6550db.jpg",
+    "static/media/hidratacion_facial.5e7df9ac.jpg": "/Estetica-Integral-React/static/media/hidratacion_facial.5e7df9ac.jpg",
+    "static/media/lipo.5adf5a7d.jpeg": "/Estetica-Integral-React/static/media/lipo.5adf5a7d.jpeg",
+    "static/media/logo.4a70afd8.jpg": "/Estetica-Integral-React/static/media/logo.4a70afd8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fa2823a.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.f90de759.chunk.js",
+    "static/css/main.9e0d3567.chunk.css",
+    "static/js/main.01119600.chunk.js"
+  ]
+}
